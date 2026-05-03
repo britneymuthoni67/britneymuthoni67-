@@ -16,5 +16,6 @@ Skills
 - Node.js
 
 Connect With Me
-
+- Email: peters.beau8@gmail.com
+- Instagram: https://instagram.com/they-scream-4-brit
 - GitHub: https://github.com/britneymuthoni67 
